@@ -1,0 +1,25 @@
+body
+{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url('images/stardust.png');
+}
+
+h1
+{
+  font-size: 5rem;
+  color: #79d897;
+  font-family: cursive;
+}
+
+main
+{
+}
+
+.record
+{
+  width: 200px;
+  height: 200px;
+}
